@@ -74,7 +74,7 @@ class Login extends StatelessWidget {
                   5.heightBox,
                   createNewAccount.text.color(fontGrey).make(),
                   5.heightBox,
-                  buttonon(
+                  button(
                       color: lightGolden,
                       title: signup,
                       textColor: redColor,
